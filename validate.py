@@ -1,4 +1,4 @@
-valdiate(mons):
+def valdiate(mons):
     i = 0
     for n in mons:
       if(type(n) == list):
